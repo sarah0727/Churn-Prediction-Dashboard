@@ -11,6 +11,7 @@ Welcome to the repository for my **R-based Dashboard Project**! This project dem
 ## Objective 🎯  
 To create a robust and visually impactful dashboard while honing my skills in R programming and data visualization.  
 
+## Screenshots 📸
 ![image](https://github.com/user-attachments/assets/84086ef9-f103-41c2-bcaa-28b13c294c08)
 ![image](https://github.com/user-attachments/assets/a15261ec-f8da-4467-8c8c-7664b836bfb8)
 ![image](https://github.com/user-attachments/assets/909b3fab-228e-4d2d-8c1c-0132ee6dad4b)
