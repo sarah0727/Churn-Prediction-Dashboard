@@ -12,9 +12,7 @@ Welcome to the repository for my **R-based Dashboard Project**! This project dem
 To create a robust and visually impactful dashboard while honing my skills in R programming and data visualization.  
 
 ## Screenshots 📸  
-Include screenshots of your dashboard here to give users a visual idea of the project. You can add them like this:  
-```markdown
-images/Screenshot 2024-11-17 011454.png 
-images/Screenshot 2024-11-17 011511.png
-images/Screenshot 2024-11-17 011525.png
-```
+
+![Dashboard Screenshot 1]images/Screenshot 2024-11-17 011454.png  
+![Dashboard Screenshot 2](path/to/screenshot2.png)  
+
